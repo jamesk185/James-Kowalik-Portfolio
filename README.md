@@ -32,10 +32,10 @@ The aim of this project will be to explore a dataset of Pitchfork reviews and, u
 
 The below image is taken from the data analysis stage (and the report) and shows correlation between the predictors I built and the score.
 
-![](/images/Pitchfork%20project%20scatter%20graphs.png) \
-\
+![](/images/Pitchfork%20project%20scatter%20graphs.png) 
 
-
+<br />
+<br />
 
 # [Project 2: Vizualisation of Climate Data Recorded in Chiyoda, Japan](https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-)
 
