@@ -54,7 +54,6 @@ Below is the final produced graphic.
 ![](/images/Chiyoda_weather_Graph.png)
 
 <br />
-<br />
 
 # [Project 3: Next Word Predictor App](https://github.com/jamesk185/JHU-DSS-Data-Science-Capstone-Project)
 
@@ -80,6 +79,5 @@ Below is a screenshot of the app's interface.
 
 ![](/images/next_word_predictor_screenshot.png)
 
-<br />
-<br />
+
 
