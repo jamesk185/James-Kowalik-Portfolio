@@ -75,7 +75,7 @@ This was achieved through analysis of text data and natural language processing.
 
 Below is a screenshot of the app's interface.
 
-![](/images/next_word_predictor_screenshot.png)
+![](/images/next_word_predictor_screenshot2.png)
 
 # [Project 4: Interactive Mapping of Covid-19 Deaths](https://github.com/jamesk185/JHU-DSS-Developing-Data-Products-Course-Project)
 
