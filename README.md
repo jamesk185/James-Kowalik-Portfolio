@@ -21,4 +21,4 @@ The aim of this project will be to explore a dataset of Pitchfork reviews and, u
 
 - What predictors can be created to improve prediction? How much can prediction accuracy be improved from using just one predictor (based on previous score(s)) to using multiple?
 
-![](https://github.com/jamesk185/James-Kowalik-Portfolio/blob/main/images/Pitchfork%20project%20scatter%20graphs.png)
+![](/images/Pitchfork%20project%20scatter%20graphs.png)
