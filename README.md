@@ -55,3 +55,31 @@ Below is the final produced graphic.
 
 <br />
 <br />
+
+# [Project 3: Next Word Predictor App](https://github.com/jamesk185/JHU-DSS-Data-Science-Capstone-Project)
+
+Completed as part of the *Data Science Capstone* course in the Johns Hopkins University Data Science Specialization in October 2021.
+
+Link to pitch presentation: https://rpubs.com/jamesk185/819061
+
+Link to shiny app: https://jamesk185.shinyapps.io/WordPredictor/
+
+### Overview:
+
+- Written and programmed in R.
+- Natural language processing and tokenization.
+- Creating an application using R's shinyapps.
+
+### Background:
+
+The aim of this project was to create an application that allows use of a predictive text model. With my app, a user will type a sentence, and the app will predict the next word in the sentence for them. My app will provide 4 options for the user where clicking on one of them will add it to the input box.
+
+This was achieved through analysis of text data and natural language processing. In this process, tokenization was used to create datasets of 'n-gram' word combinations. With this, I tried various methods that looked at ultimately finding the best efficiency of the final product. That is to say, increasing the 'n' in 'n-grams' to have word combinations of, say, 8 words, would absolutely improve the accuracy of a word prediction model but the code would most likely not run in a reasonable timeframe on most computers. Also, the speed of the final product output from the app's user's perspective must be considered in this efficiency.
+
+Below is a screenshot of the app's interface.
+
+![](/images/next_word_predictor_screenshot.png)
+
+<br />
+<br />
+
