@@ -35,6 +35,8 @@ The below image is taken from the data analysis stage (and the report) and shows
 ![](/images/Pitchfork%20project%20scatter%20graphs.png)
 
 
+
+
 # [Project 2: Vizualisation of Climate Data Recorded in Chiyoda, Japan](https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-)
 
 A data science project completed as part of the *Applied Plotting, Charting & Data Representation in Python* course by University of Michigan. Completed in December 2021.
