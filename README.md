@@ -32,7 +32,7 @@ The aim of this project will be to explore a dataset of Pitchfork reviews and, u
 
 The below image is taken from the data analysis stage (and the report) and shows correlation between the predictors I built and the score.
 
-![](/images/Pitchfork%20project%20scatter%20graphs.png) 
+![](/images/Pitchfork_project_scatter_graphs.png) 
 
 <br />
 <br />
@@ -59,7 +59,7 @@ With the primary focus being on Chiyoda, Tokyo, I will take a broad look at chan
 
 Below is the final produced graphic.
 
-![](/images/Chiyoda%20weather%20Graph.png)
+![](/images/Chiyoda_weather_Graph.png)
 
 <br />
 <br />
