@@ -35,7 +35,7 @@ The below image is taken from the data analysis stage (and the report) and shows
 ![](/images/Pitchfork%20project%20scatter%20graphs.png)
 
 \
-\
+
 
 # [Project 2: Vizualisation of Climate Data Recorded in Chiyoda, Japan](https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-)
 
