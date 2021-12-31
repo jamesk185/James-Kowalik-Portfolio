@@ -53,8 +53,6 @@ Below is the final produced graphic.
 
 ![](/images/Chiyoda_weather_Graph.png)
 
-<br />
-
 # [Project 3: Next Word Predictor App](https://github.com/jamesk185/JHU-DSS-Data-Science-Capstone-Project)
 
 Completed as part of the *Data Science Capstone* course in the Johns Hopkins University Data Science Specialization in October 2021.
