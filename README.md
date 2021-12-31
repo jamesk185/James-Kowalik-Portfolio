@@ -60,3 +60,6 @@ With the primary focus being on Chiyoda, Tokyo, I will take a broad look at chan
 Below is the final produced graphic.
 
 ![](/images/Chiyoda%20weather%20Graph.png)
+
+<br />
+<br />
