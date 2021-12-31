@@ -1,15 +1,20 @@
-# James Kowalik Portfolio
-Examples of completed data analysis and data science projects.
-
 #  [Project 1: Pitchfork Scores Data Analysis and Prediction](https://github.com/jamesk185/Project---The-Pitchfork-Effect)
 
 An independent data science project by James Kowalik completed in October 2021.
 
 Link to report: https://rpubs.com/jamesk185/824113
 
-## Introduction
+### Overview:
 
-Pitchfork is one of the most widely read online music magazines. It is most famed for its review scores and 'Best New Music' award system. It assigns a score from 0 to 10 to one decimal place for an album that is released and reviewed by one of their writers. An album which receives a score of higher than 8.0 will often receive 'Best New Music' status- an indicator that it is of particularly high quality and an award which holds a lot of influence in terms of the album's sales and credibility.
+- Written and programmed in R.
+- Data processing and cleaning.
+- Writing functions and building new variables, predictors.
+- Data analysis.
+- Using machine learning to perform prediction.
+
+### Background:
+
+Pitchfork is one of the most widely read online music magazines. It is most famed for its album review scores and 'Best New Music' award system. It assigns a score from 0 to 10 to one decimal place for an album that is released and reviewed by one of their writers. An album which receives a score of higher than 8.0 will often receive 'Best New Music' status- an indicator that it is of particularly high quality and an award which holds a lot of influence in terms of the album's sales and credibility.
 
 The aim of this project will be to explore a dataset of Pitchfork reviews and, ultimately, build a prediction model that attempts to predict the score an album will get when reviewed by Pitchfork. Below, I note some aims, expectations and points of intrigue.
 
@@ -20,5 +25,7 @@ The aim of this project will be to explore a dataset of Pitchfork reviews and, u
 - My expectation is that the previous scores given to the artist will provide the best indication of score.
 
 - What predictors can be created to improve prediction? How much can prediction accuracy be improved from using just one predictor (based on previous score(s)) to using multiple?
+
+The below image is taken from the data analysis stage (and the report) and shows correlation between the predictors I built and the score.
 
 ![](/images/Pitchfork%20project%20scatter%20graphs.png)
