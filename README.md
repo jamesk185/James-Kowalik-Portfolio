@@ -6,7 +6,7 @@ Data analysis and data science project examples.
 
 An independent data science project by James Kowalik completed in October 2021.
 
-Link to report: https://rpubs.com/jamesk185/824113
+Link to report: [https://rpubs.com/jamesk185/824113](https://rpubs.com/jamesk185/824113)
 
 ### Overview:
 
@@ -33,9 +33,9 @@ The below image is taken from the data analysis stage (and the report) and shows
 
 A data science project completed as part of the *Applied Plotting, Charting & Data Representation in Python* course by University of Michigan. Completed in December 2021.
 
-Link to Report : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md
+Link to Report : [https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md](https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md)
 
-Link to Graphic : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png
+Link to Graphic : [https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png](https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png)
 
 ### Overview:
 
@@ -57,9 +57,9 @@ Below is the final produced graphic.
 
 Completed as part of the *Data Science Capstone* course in the Johns Hopkins University Data Science Specialization in October 2021.
 
-Link to pitch presentation: https://rpubs.com/jamesk185/819061
+Link to pitch presentation: [https://rpubs.com/jamesk185/819061](https://rpubs.com/jamesk185/819061)
 
-Link to shiny app: https://jamesk185.shinyapps.io/WordPredictor/
+Link to shiny app: [https://jamesk185.shinyapps.io/WordPredictor/](https://jamesk185.shinyapps.io/WordPredictor/)
 
 ### Overview:
 
@@ -81,9 +81,9 @@ Below is a screenshot of the app's interface.
 
 Completed as part of the *Developing Data Products* course in the Data Science Specialization by Johns Hopkins University in September 2021.
 
-Link to shiny app: https://jamesk185.shinyapps.io/ddpCourseProject/
+Link to shiny app: [https://jamesk185.shinyapps.io/ddpCourseProject/](https://jamesk185.shinyapps.io/ddpCourseProject/)
 
-Link to presentation: https://rpubs.com/jamesk185/805644
+Link to presentation: [https://rpubs.com/jamesk185/805644](https://rpubs.com/jamesk185/805644)
 
 ### Overview:
 
