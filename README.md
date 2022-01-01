@@ -98,3 +98,4 @@ The image below is a screenshot of the application in use.
 ![](/images/world_covid_deaths_map_screenshot.png)
 
 
+
