@@ -73,7 +73,7 @@ Below is a screenshot of the app's interface.
 
 ![](/images/next_word_predictor_screenshot2.png)
 
-# Understanding and Predicting Property Maintenance Fines
+# [Project 4: Understanding and Predicting Property Maintenance Fines](https://github.com/jamesk185/Understanding-and-Predicting-Property-Maintenance-Fines-machine-learning-Python)
 
 A data science project completed as part of the *Applied Machine Learning* course by University of Michigan. Completed in February 2022.
 
