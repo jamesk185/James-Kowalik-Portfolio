@@ -73,7 +73,29 @@ Below is a screenshot of the app's interface.
 
 ![](/images/next_word_predictor_screenshot2.png)
 
-# [Project 4: Interactive Mapping of Covid-19 Deaths](https://github.com/jamesk185/JHU-DSS-Developing-Data-Products-Course-Project)
+# Understanding and Predicting Property Maintenance Fines
+
+A data science project completed as part of the *Applied Machine Learning* course by University of Michigan. Completed in February 2022.
+
+Link to report : https://github.com/jamesk185/Understanding-and-Predicting-Property-Maintenance-Fines-machine-learning-Python/blob/main/Report.md
+
+### Overview:
+
+- Written and programmed with Python using Jupyter Notebook.
+- Data processing and variable manipulation.
+- Machine learning with prediction algorithms.
+
+### Background:
+
+The Michigan Data Science Team (MDST) and the Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) have partnered with the City of Detroit to help solve one of the most pressing problems facing Detroit - blight. Blight violations are issued by the city to individuals who allow their properties to remain in a deteriorated condition. Every year, the city of Detroit issues millions of dollars in fines to residents and every year, many of these fines remain unpaid. Enforcing unpaid blight fines is a costly and tedious process, so the city wants to know: how can we increase blight ticket compliance?
+
+In this assignment I will use predictive modelling to predict whether a given blight ticket will be paid on time. My predictions will be given as the probability that the corresponding blight ticket will be paid on time and the evaluation metric which will be used is the Area Under the ROC Curve (AUC).
+
+Below is a figure taken from the report showing the correlation between all of the final set of variables that were to be used in the prediction model.
+
+![](/images/blight_prediction_model_correlation_table.png)
+
+# [Project 5: Interactive Mapping of Covid-19 Deaths](https://github.com/jamesk185/JHU-DSS-Developing-Data-Products-Course-Project)
 
 Completed as part of the *Developing Data Products* course in the Data Science Specialization by Johns Hopkins University in September 2021.
 
