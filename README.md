@@ -1,6 +1,4 @@
-# Data Science and Analysis Portfolio by James Kowalik
-
-https://jamesk185.github.io/James-Kowalik-Portfolio/
+[https://jamesk185.github.io/James-Kowalik-Portfolio/](https://jamesk185.github.io/James-Kowalik-Portfolio/)
 
 #  [Project 1: Pitchfork Scores Data Analysis and Prediction](https://github.com/jamesk185/Project---The-Pitchfork-Effect)
 
@@ -81,7 +79,7 @@ Below is a screenshot of the app's interface.
 
 A data science project completed as part of the *Applied Machine Learning* course by University of Michigan. Completed in February 2022.
 
-Link to report : https://github.com/jamesk185/Understanding-and-Predicting-Property-Maintenance-Fines-machine-learning-Python/blob/main/Report.md
+Link to report : [https://github.com/jamesk185/Understanding-and-Predicting-Property-Maintenance-Fines-machine-learning-Python/blob/main/Report.md](https://github.com/jamesk185/Understanding-and-Predicting-Property-Maintenance-Fines-machine-learning-Python/blob/main/Report.md)
 
 ### Overview:
 
