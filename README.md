@@ -1,3 +1,7 @@
+# Data Science and Analysis Portfolio by James Kowalik
+
+https://jamesk185.github.io/James-Kowalik-Portfolio/
+
 #  [Project 1: Pitchfork Scores Data Analysis and Prediction](https://github.com/jamesk185/Project---The-Pitchfork-Effect)
 
 An independent data science project by James Kowalik completed in October 2021.
