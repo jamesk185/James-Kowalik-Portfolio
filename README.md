@@ -157,16 +157,16 @@ Completed October, 2022.
 - Statistical Inference
 
 ![](/images/data_science_johns_hopkins_james_kowalik.png)
-
 <br />
+
 ### Learn SQL Basics for Data Science Specialization By University of California Davis
 
 2 of 4 courses completed;
 
 - SQL for Data Science
 - Data Wrangling, Analysis and AB Testing with SQL
-
 <br />
+
 ### Data Science Professional Certificate By HarvardX
 
 7 of 9 courses completed;
