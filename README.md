@@ -157,6 +157,7 @@ Completed October, 2022.
 - Statistical Inference
 
 ![](/images/data_science_johns_hopkins_james_kowalik.png)
+
 <br />
 
 ### Learn SQL Basics for Data Science Specialization By University of California Davis
