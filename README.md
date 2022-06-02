@@ -138,7 +138,6 @@ Completed April, 2022.
 ![](/images/applied_data_science_w_python_james_kowalik.png)
 
 <br />
-<br />
 
 ### Data Science By Johns Hopkins University
 
@@ -160,8 +159,6 @@ Completed October, 2022.
 ![](/images/data_science_johns_hopkins_james_kowalik.png)
 
 <br />
-<br />
-
 ### Learn SQL Basics for Data Science Specialization By University of California Davis
 
 2 of 4 courses completed;
@@ -170,7 +167,6 @@ Completed October, 2022.
 - Data Wrangling, Analysis and AB Testing with SQL
 
 <br />
-
 ### Data Science Professional Certificate By HarvardX
 
 7 of 9 courses completed;
