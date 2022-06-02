@@ -121,5 +121,23 @@ The image below is a screenshot of the application in use.
 
 ![](/images/world_covid_deaths_map_screenshot.png)
 
+#  [Certificates from Courses](https://github.com/jamesk185/Certificates-from-Courses)
+
+### Applied Data Science with Python
+
+By University of Michigan
+
+5 of 5 courses completed
+
+-Introduction to Data Science in Python
+-Applied Plotting, Charting & Data Representation in Python
+-Applied Machine Learning in Python
+-Applied Text Mining in Python
+-Applied Social Network Analysis in Python
+
+![](/images/applied_data_science_w_python_james_kowalik.png)
+
+### 
+
 
 
