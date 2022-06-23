@@ -141,7 +141,7 @@ Completed April, 2022.
 
 ### Data Science By Johns Hopkins University
 
-Completed October, 2022.
+Completed October, 2021.
 
 10 of 10 courses completed;
 
